@@ -1,6 +1,3 @@
 twilio
-smtplib
-threading
-json
 sqlalchemy
 datetime
